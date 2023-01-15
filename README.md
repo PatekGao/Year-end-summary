@@ -46,5 +46,5 @@
     - Smart-Turtle的架构搭建
       - 尝试分布式ROS，将代码分成Legs（嵌入式），Brian（CPU），Cerebellum（GPU）三部分，在单片机，NUC，TX2上运行
       - 尝试使用NodeJS+umijs+antd为Smart-Turtle编写前端网页，实时展示其各项参数和信息
-  - 长空御风新生培训
+  - 长空御风视觉组新生培训
   - 待续。。。
